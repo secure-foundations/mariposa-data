@@ -6,7 +6,7 @@ including all the original queries and the benchmark queries (curated from the f
 The Mariposa benchmark contains both unstable and stable queries for the projects we experimented with, as shown in the table below. 
 Each is further divided into a core and an extension, where the core contains fewer but more representative queries.
 
-| Project | Original | unstable core | unstable ext | stable core | unstable ext |
+| Project | Original | unstable core | unstable ext | stable core | stable ext |
 | --- | --- | --- | --- | --- | --- |
 | $\text{Komodo}_D$ | 2,054 | 8 | 95 | 30 | 97 |
 | $\text{Komodo}_S$ | 773 | 2 | 2 | 30 | 9 |
